@@ -3,7 +3,7 @@
 #
 # You only need to:
 #  1. Pick your favourite base image
-FROM ubuntu:14.04
+FROM ubuntu:18.10
 
 #  2. with your favourite tools
 RUN apt-get update && \
